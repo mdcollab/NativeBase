@@ -4369,9 +4369,9 @@ react-native-drawer@2.5.0:
     prop-types "^15.5.8"
     tween-functions "^1.0.1"
 
-react-native-easy-grid@0.1.17:
+"react-native-easy-grid@git://github.com/mdcollab/react-native-easy-grid.git#e828ed1901d9116bb44f4fea77e3cfcaf8b94e98":
   version "0.1.17"
-  resolved "https://registry.yarnpkg.com/react-native-easy-grid/-/react-native-easy-grid-0.1.17.tgz#fad8cb371d465828c1c71daa4d8b513d33253452"
+  resolved "git://github.com/mdcollab/react-native-easy-grid.git#e828ed1901d9116bb44f4fea77e3cfcaf8b94e98"
   dependencies:
     lodash "^4.11.1"
 
